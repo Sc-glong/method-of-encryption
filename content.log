@@ -1,3 +1,4 @@
 ## 几种PHP常用的加密方法
 ### md5加密
   md5(),加密方法不可逆；
+  >>>>>>https://www.jb51.net/article/61263.htm
